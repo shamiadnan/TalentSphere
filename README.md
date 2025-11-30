@@ -29,3 +29,55 @@ It’s designed for **Kaggle AI Agent Hackathon 2025** and showcases how multipl
 - **Deployment:** Ngrok (for temporary hosting)  
 
 ---
+## ⚙️ Installation  
+
+```bash
+# Clone the repository
+git clone https://github.com/shamiadnan/TalentSphere.git
+cd TalentSphere
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
+
+---
+## 🧭 How It Works
+---
+
+Upload your résumé (PDF)
+
+Recruiter Agent extracts key skills and experience
+
+Trainer Agent conducts a role-based interview
+
+Evaluator Agent scores your answers (clarity, confidence, accuracy)
+
+Improvement Planner Agent builds your 4-week learning roadmap
+
+## 🧠 Future Enhancements
+
+Persistent dashboard for performance tracking
+
+Emotion and speech tone recognition
+
+Multi-language interview support
+
+Personalized upskilling recommendations
+
+## 🖼️ Demo & Screenshots
+UI View	Description
+
+	Home interface of TalentSphere
+
+	Recruiter Agent conducting interview
+
+## 👤 Author
+
+Adnan Shami
+📍 Kaggle AI Agent Hackathon 2025 Participant
+
+## 🧡 Acknowledgements
+
+Special thanks to Google AI Studio, Kaggle, and the Gemini API community for enabling next-gen agentic systems.
