@@ -69,7 +69,6 @@ Personalized upskilling recommendations
 ## 👤 Author
 
 Adnan Shami
-📍 Kaggle AI Agent Hackathon 2025 Participant
 
 ## 🧡 Acknowledgements
 
