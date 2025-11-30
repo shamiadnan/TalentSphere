@@ -31,7 +31,7 @@ It’s designed for **Kaggle AI Agent Hackathon 2025** and showcases how multipl
 ---
 ## ⚙️ Installation  
 
-```bash
+``bash
 # Clone the repository
 git clone https://github.com/shamiadnan/TalentSphere.git
 cd TalentSphere
@@ -65,13 +65,6 @@ Emotion and speech tone recognition
 Multi-language interview support
 
 Personalized upskilling recommendations
-
-## 🖼️ Demo & Screenshots
-UI View	Description
-
-	Home interface of TalentSphere
-
-	Recruiter Agent conducting interview
 
 ## 👤 Author
 
