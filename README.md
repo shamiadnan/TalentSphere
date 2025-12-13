@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 Overview
-**TalentSphere** is an autonomous multi-agent interviewer and personal skill coach that reads your résumé, asks role-based technical questions, evaluates your performance, and generates a personalized 4-week improvement plan.  
+**TalentSphere** is an autonomous multi-agent interviewer and personal skill coach that reads your resume, asks role-based technical questions, evaluates your performance, and generates a personalized 4-week improvement plan.  
 
 It’s designed for **Kaggle AI Agent Hackathon 2025** and showcases how multiple AI agents can collaborate to assess, train, and upskill users intelligently.  
 
