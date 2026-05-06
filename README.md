@@ -9,6 +9,8 @@
 
 It’s designed for **Kaggle AI Agent Hackathon 2025** and showcases how multiple AI agents can collaborate to assess, train, and upskill users intelligently.  
 
+🌍 Live App URL: https://calligraphic-eufemia-unliberalised.ngrok-free.dev
+
 ---
 
 ## ✨ Key Features
